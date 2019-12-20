@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Heading, Text, Button } from './Primitives';
+import { Heading, Text, Button } from './primitives';
 
 // Heading variants
 const Heading1 = props => (
