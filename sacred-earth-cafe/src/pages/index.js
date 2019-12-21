@@ -13,7 +13,7 @@ const IndexPage = ({data}) => (
     <BgImage
       title="university"
       fluid={data.forest.childImageSharp.fluid}
-      overlayColor="#0f221e4d"
+      overlayColor="#0f221e6b"
       height="100vh"
     >
       <Centered color="white" p={3}>
